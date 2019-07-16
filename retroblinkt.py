@@ -32,8 +32,6 @@ def orange():
     show()
 
 platform = sys.argv[1]
-#print platform
-#print len(platform)
 
 while 'SOLID' in open('/home/pi/rainbow.txt').read():
 
