@@ -42,7 +42,7 @@ Python Scripts
 
 rainbow.py
 
-This script lives in the /home/pi/ folder and is an exact copy of the rainbow.py script that comes with the downloaded examples when the Blink is fully installed. The only difference is that this copy of the script adds a condition to the While loop, so that instead of being infinite it is dependant on the presence of a specific text string in the rainbow.txt file - the word RAINBOW. 
+This script lives in the /home/pi/ folder and is an exact copy of the rainbow.py script that comes with the downloaded examples when the Blinkt is fully installed. The only difference is that this copy of the script adds a condition to the While loop, so that instead of being infinite it is dependant on the presence of a specific text string in the rainbow.txt file - the word RAINBOW. 
 
 retroblinkt.py
 
