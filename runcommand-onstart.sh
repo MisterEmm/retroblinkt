@@ -1,13 +1,10 @@
 #!/usr/bin/env bash
 
-# Get system name
+# Get the game system name
 system=$1
 
-
-# Write to Runcommand Log
+# Write SOLID to the text file
 echo "SOLID" > $HOME/rainbow.txt
 
-#sudo python /home/pi/rainbow.py &
-
-# Call my Python code and pass variable
+# Call the solid colour Python code and pass the system name variable
 sudo python /home/pi/Pimoroni/retroblinkt.py $system &
