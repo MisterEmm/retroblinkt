@@ -1,11 +1,7 @@
 #!/usr/bin/env bash
 
-# Get system name
-system=$1
-
-
-# Write to Runcommand Log
+# Write RAINBOW to the text file
 echo "RAINBOW" > $HOME/rainbow.txt
 
-# Call my Python code and pass variable
+# Call the Python code to run the rainbow colours
 sudo python /home/pi/rainbow.py &
