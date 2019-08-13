@@ -7,8 +7,10 @@ RetroPie: https://retropie.org.uk/
 As used in the 1963 Portable Retropie Console project:
 
 Instructables:
+
 Hackster:
-Youtube:
+
+Youtube: https://youtu.be/Ys04Nz6xxxg
 
 The scripts assume a full Blinkt installation and a standard RetroPie installation on a Raspberry Pi.
 
