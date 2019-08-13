@@ -6,7 +6,7 @@ RetroPie: https://retropie.org.uk/
 
 As used in the 1963 Portable Retropie Console project:
 
-Instructables:
+Instructables: https://www.instructables.com/id/1963-Pi-Tourer-Game-Console
 
 Hackster:
 
