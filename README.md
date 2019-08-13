@@ -8,7 +8,7 @@ As used in the 1963 Portable Retropie Console project:
 
 Instructables: https://www.instructables.com/id/1963-Pi-Tourer-Game-Console
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/1963-pi-tourer-game-console-7732d9
 
 Youtube: https://youtu.be/Ys04Nz6xxxg
 
